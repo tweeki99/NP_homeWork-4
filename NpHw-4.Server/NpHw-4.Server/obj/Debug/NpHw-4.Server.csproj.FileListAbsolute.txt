@@ -1,0 +1,25 @@
+C:\Users\шипиловд\source\repos\NpHw-4.Server\NpHw-4.Server\bin\Debug\NpHw-4.Server.exe.config
+C:\Users\шипиловд\source\repos\NpHw-4.Server\NpHw-4.Server\bin\Debug\NpHw-4.Server.exe
+C:\Users\шипиловд\source\repos\NpHw-4.Server\NpHw-4.Server\bin\Debug\NpHw-4.Server.pdb
+C:\Users\шипиловд\source\repos\NpHw-4.Server\NpHw-4.Server\obj\Debug\NpHw-4.Server.csprojAssemblyReference.cache
+C:\Users\шипиловд\source\repos\NpHw-4.Server\NpHw-4.Server\obj\Debug\NpHw-4.Server.csproj.CoreCompileInputs.cache
+C:\Users\шипиловд\source\repos\NpHw-4.Server\NpHw-4.Server\obj\Debug\NpHw-4.Server.exe
+C:\Users\шипиловд\source\repos\NpHw-4.Server\NpHw-4.Server\obj\Debug\NpHw-4.Server.pdb
+F:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\bin\Debug\NpHw-4.Server.exe.config
+F:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\bin\Debug\NpHw-4.Server.exe
+F:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\bin\Debug\NpHw-4.Server.pdb
+F:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\obj\Debug\NpHw-4.Server.csprojAssemblyReference.cache
+F:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\obj\Debug\NpHw-4.Server.csproj.CoreCompileInputs.cache
+F:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\obj\Debug\NpHw-4.Server.exe
+F:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\obj\Debug\NpHw-4.Server.pdb
+D:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\obj\Debug\NpHw-4.Server.csprojAssemblyReference.cache
+D:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\obj\Debug\NpHw-4.Server.csproj.CoreCompileInputs.cache
+D:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\obj\Debug\NpHw-4.Server.exe
+D:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\obj\Debug\NpHw-4.Server.pdb
+D:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\bin\Debug\NpHw-4.Server.exe.config
+D:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\bin\Debug\NpHw-4.Server.exe
+D:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\bin\Debug\NpHw-4.Server.pdb
+D:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\bin\Debug\HtmlAgilityPack.dll
+D:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\bin\Debug\HtmlAgilityPack.pdb
+D:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\bin\Debug\HtmlAgilityPack.xml
+D:\1 Shag\Net\Домашние работы\NpHw-4.Server\NpHw-4.Server\obj\Debug\NpHw-4.Server.csproj.CopyComplete
